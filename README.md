@@ -30,7 +30,11 @@ Real-world dataset from Kaggle. Dataset link: https://www.kaggle.com/datasets/tm
 **Files:**
 
 requirements -> contain the required libraries to see the frontend implementation
+
 Movie_Recommendation_System -> contains code for data loading, cleaning, transformation, storing data into pickle file, popular movies data, recommendations code, etc.
+
 app.py -> contains code for front end implementation for the movie recommendation.
+
 pickle files(movies.pkl, popular_movies.pkl): they are the output files after the transformations
+
 setup.sh, Procfile: these files are required to streamlit the app.py
