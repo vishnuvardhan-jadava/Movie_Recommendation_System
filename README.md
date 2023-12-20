@@ -31,7 +31,7 @@ Real-world dataset from Kaggle. Dataset link: https://www.kaggle.com/datasets/tm
 
 requirements -> contain the required libraries to see the frontend implementation
 
-Movie_Recommendation_System -> contains code for data loading, cleaning, transformation, storing data into pickle file, popular movies data, recommendations code, etc.
+Movie_Recommendation_System.ipynb -> contains code for data loading, cleaning, transformation, storing data into pickle file, popular movies data, recommendations code, etc.
 
 app.py -> contains code for front end implementation for the movie recommendation.
 
